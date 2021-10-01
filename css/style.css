@@ -53,8 +53,8 @@ span{
 	background-color: #533628;
 }
 .container{
-	width: 1080px;
-	height: 4250px;
+	width: 1000px;
+	height: 3930px;
 	border: 2px solid blue;
 	margin:0 auto;
 }
@@ -63,7 +63,7 @@ span{
 	height: 60px;
 }
 .image{
-	width: 980px;
+	width: 900px;
 	position: relative;
 	top: 110px;
 	left: 50px;
@@ -85,12 +85,12 @@ span{
 	color: #d71a2e;
 }
 .text{
-	width: 980px;
+	width: 900px;
 	border: 5px solid #d71a2e;
 	margin: 0 auto;
 	padding: 20px;
 	border-radius: 20px;
 	background-color: #E0FFFF;
-	font-size: 33px;
+	font-size: 30px;
 	font-weight: 700;
 }
