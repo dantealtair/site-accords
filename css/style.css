@@ -49,17 +49,17 @@ span{
 	color: #d71a2e;
 }
 .wrapper{
-	border: 1px solid red;
+/*	border: 1px solid red;*/
 	background-color: #533628;
 }
 .container{
 	width: 1000px;
 	height: 3570px;
-	border: 2px solid blue;
+/*	border: 2px solid blue;*/
 	margin:0 auto;
 }
 .header{
-	border: 2px solid black;
+/*	border: 2px solid black;*/
 	height: 60px;
 }
 .image{
@@ -75,7 +75,7 @@ span{
 	margin: 140px auto 10px;
 	text-align: center;
 	color: #d71a2e;
-	text-shadow: 1px 1px 1px #22638d;
+	text-shadow: 2px 2px 2px black;
 }
 .heading_2{
 	font-family: 'Conv_izhitsa';
@@ -83,6 +83,7 @@ span{
 	margin: 10px auto 30px;
 	text-align: center;
 	color: #d71a2e;
+	text-shadow: 1px 1px 1px black;
 }
 .text{
 	width: 900px;
